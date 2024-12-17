@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.webpageurlpath>
+  <WebPageUrlPath>Home</WebPageUrlPath>
+  <WebPageUrlPathContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>91c49e20-0eac-4d2a-8f31-b8e9edcc39a6</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </WebPageUrlPathContentLanguageID>
+  <WebPageUrlPathGUID>020b033e-6727-4b38-b56b-7d4b80591ec4</WebPageUrlPathGUID>
+  <WebPageUrlPathHash>
+    <![CDATA[81C033CAA418F6F2960A3F1C418F6087225A9942945F8AC6726F2DAE43AAE46F]]>
+  </WebPageUrlPathHash>
+  <WebPageUrlPathIsDraft>False</WebPageUrlPathIsDraft>
+  <WebPageUrlPathIsLatest>True</WebPageUrlPathIsLatest>
+  <WebPageUrlPathWebPageItemID>
+    <CodeName>Home-y8cbhwy0</CodeName>
+    <GUID>e068f043-b35d-4520-8f62-477dfd0d4c2f</GUID>
+    <ObjectType>cms.webpageitem</ObjectType>
+  </WebPageUrlPathWebPageItemID>
+  <WebPageUrlPathWebsiteChannelID>
+    <GUID>6c848b0d-09e3-42dd-8b6a-68ee75bd5efb</GUID>
+    <ObjectType>cms.websitechannel</ObjectType>
+    <Parent>
+      <CodeName>KickstartPages</CodeName>
+      <GUID>22ab1e83-47da-4da1-93a0-cf1671a71814</GUID>
+      <ObjectType>cms.channel</ObjectType>
+    </Parent>
+  </WebPageUrlPathWebsiteChannelID>
+</cms.webpageurlpath>

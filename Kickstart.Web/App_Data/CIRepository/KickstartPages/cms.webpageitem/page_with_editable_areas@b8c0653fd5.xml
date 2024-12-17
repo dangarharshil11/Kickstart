@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.webpageitem>
+  <WebPageItemContentItemID>
+    <CodeName>PageWithEditableAreas-ij5xcm1d</CodeName>
+    <GUID>9fe4d4b1-3ad3-4e81-a607-acdba05e15ca</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </WebPageItemContentItemID>
+  <WebPageItemGUID>7b685ba7-06fe-4678-ae82-fd7462675a87</WebPageItemGUID>
+  <WebPageItemName>PageWithEditableAreas-ij5xcm1d</WebPageItemName>
+  <WebPageItemOrder>1</WebPageItemOrder>
+  <WebPageItemTreePath>/Page_with_Editable_Areas</WebPageItemTreePath>
+  <WebPageItemWebsiteChannelID>
+    <GUID>6c848b0d-09e3-42dd-8b6a-68ee75bd5efb</GUID>
+    <ObjectType>cms.websitechannel</ObjectType>
+    <Parent>
+      <CodeName>KickstartPages</CodeName>
+      <GUID>22ab1e83-47da-4da1-93a0-cf1671a71814</GUID>
+      <ObjectType>cms.channel</ObjectType>
+    </Parent>
+  </WebPageItemWebsiteChannelID>
+</cms.webpageitem>

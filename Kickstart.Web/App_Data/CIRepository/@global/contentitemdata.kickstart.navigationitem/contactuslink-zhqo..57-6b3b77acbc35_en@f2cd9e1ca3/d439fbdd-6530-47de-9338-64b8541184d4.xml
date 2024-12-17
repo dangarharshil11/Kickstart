@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.kickstart.navigationitem>
+  <ContentItemDataCommonDataID>
+    <GUID>b098742b-ee84-445b-8d57-6b3b77acbc35</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>ContactUsLink-zhqogaax</CodeName>
+      <GUID>6108b5d0-414b-4b58-9c12-3ce88a899543</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>d439fbdd-6530-47de-9338-64b8541184d4</ContentItemDataGUID>
+  <NavigationItemTarget>
+    <![CDATA[[{"WebPageGuid":"a9d69474-1077-40af-a7ba-6ce01ed7726c"}]]]>
+  </NavigationItemTarget>
+  <NavigationItemTitle>Contact us</NavigationItemTitle>
+</contentitemdata.kickstart.navigationitem>

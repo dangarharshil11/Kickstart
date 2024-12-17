@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contenttype>
+  <ClassContentTypeType>Reusable</ClassContentTypeType>
+  <ClassDisplayName>Navigation menu</ClassDisplayName>
+  <ClassFormDefinition>
+    <form>
+      <field column="ContentItemDataID" columntype="integer" enabled="true" guid="77c6486f-791d-4191-ab05-dcc24e3f8641" isPK="true" />
+      <field column="ContentItemDataCommonDataID" columntype="integer" enabled="true" guid="2337e7db-0fbd-4352-b523-f3ea6a2f684f" refobjtype="cms.contentitemcommondata" reftype="Required" system="true" />
+      <field column="ContentItemDataGUID" columntype="guid" enabled="true" guid="afefd436-b89b-4c5d-be31-2dfc3006a2ee" isunique="true" system="true" />
+      <field column="NavigationMenuDisplayName" columnprecision="0" columnsize="200" columntype="text" enabled="true" guid="14b2c51b-16dd-49cc-9945-170aebee1baa" visible="true">
+        <properties>
+          <explanationtextashtml>False</explanationtextashtml>
+          <fieldcaption>Display Name</fieldcaption>
+          <fielddescriptionashtml>False</fielddescriptionashtml>
+        </properties>
+        <settings>
+          <controlname>Kentico.Administration.TextInput</controlname>
+        </settings>
+      </field>
+      <field column="NavigationMenuCodeName" columnprecision="0" columnsize="200" columntype="text" enabled="true" guid="9dd2a3b6-9cdc-48fb-836b-f4f7408b8c17" visible="true">
+        <properties>
+          <explanationtextashtml>False</explanationtextashtml>
+          <fieldcaption>Code name</fieldcaption>
+          <fielddescriptionashtml>False</fielddescriptionashtml>
+        </properties>
+        <settings>
+          <controlname>Kentico.Administration.TextInput</controlname>
+        </settings>
+      </field>
+      <field allowempty="true" column="NavigationMenuItems" columnprecision="0" columntype="contentitemreference" enabled="true" guid="5efc4575-fd84-4d87-9ee9-210ede06e780" visible="true">
+        <properties>
+          <explanationtextashtml>False</explanationtextashtml>
+          <fieldcaption>Items</fieldcaption>
+          <fielddescriptionashtml>False</fielddescriptionashtml>
+        </properties>
+        <settings>
+          <AllowedContentItemTypeIdentifiers>
+            <![CDATA[["54a7d696-c498-464c-aea7-cdc0bd354f23"]]]>
+          </AllowedContentItemTypeIdentifiers>
+          <controlname>Kentico.Administration.ContentItemSelector</controlname>
+          <SelectionType>contentTypes</SelectionType>
+        </settings>
+      </field>
+    </form>
+  </ClassFormDefinition>
+  <ClassGUID>5f749682-7c45-4860-b1ef-c74cea0550ae</ClassGUID>
+  <ClassHasUnmanagedDbSchema>False</ClassHasUnmanagedDbSchema>
+  <ClassIconClass>xp-list-bullets</ClassIconClass>
+  <ClassName>Kickstart.NavigationMenu</ClassName>
+  <ClassShortName>KickstartNavigationMenu</ClassShortName>
+  <ClassTableName>Kickstart_NavigationMenu</ClassTableName>
+  <ClassType>Content</ClassType>
+  <ClassWebPageHasUrl>False</ClassWebPageHasUrl>
+</cms.contenttype>

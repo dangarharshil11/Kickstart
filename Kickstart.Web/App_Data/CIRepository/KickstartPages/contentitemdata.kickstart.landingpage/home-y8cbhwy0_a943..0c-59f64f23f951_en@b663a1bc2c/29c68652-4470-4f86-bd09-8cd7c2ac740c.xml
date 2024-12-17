@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.kickstart.landingpage>
+  <ContentItemDataCommonDataID>
+    <GUID>a9437e76-27f4-4958-a60c-59f64f23f951</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>Home-y8cbhwy0</CodeName>
+      <GUID>866a132b-31c2-4f3e-aefe-8154e8b86590</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>29c68652-4470-4f86-bd09-8cd7c2ac740c</ContentItemDataGUID>
+  <LandingPageSlogan>
+    <![CDATA[[{"Identifier":"54c24115-3928-4a9a-b2b0-1c57c73f41d9"}]]]>
+  </LandingPageSlogan>
+</contentitemdata.kickstart.landingpage>

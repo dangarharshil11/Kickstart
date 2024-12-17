@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.kickstart.landingpage>
+  <ContentItemDataCommonDataID>
+    <GUID>f76cd34b-4e85-4932-808d-10592629420b</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>ContactUs-809tds7l</CodeName>
+      <GUID>de68ec30-bf61-4a53-8f55-7c1360ea52bc</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>aa2bbe66-d3d8-41f5-8cd6-0c3dba9d40b0</ContentItemDataGUID>
+  <LandingPageSlogan>
+    <![CDATA[[{"Identifier":"54c24115-3928-4a9a-b2b0-1c57c73f41d9"}]]]>
+  </LandingPageSlogan>
+</contentitemdata.kickstart.landingpage>

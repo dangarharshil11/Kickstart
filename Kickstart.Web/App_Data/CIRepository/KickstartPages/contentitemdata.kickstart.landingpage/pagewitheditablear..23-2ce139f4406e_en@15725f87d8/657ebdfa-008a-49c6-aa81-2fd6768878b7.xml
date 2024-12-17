@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.kickstart.landingpage>
+  <ContentItemDataCommonDataID>
+    <GUID>e4748792-7708-4311-9823-2ce139f4406e</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>PageWithEditableAreas-ij5xcm1d</CodeName>
+      <GUID>9fe4d4b1-3ad3-4e81-a607-acdba05e15ca</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>657ebdfa-008a-49c6-aa81-2fd6768878b7</ContentItemDataGUID>
+  <LandingPageSlogan>
+    <![CDATA[[{"Identifier":"54c24115-3928-4a9a-b2b0-1c57c73f41d9"}]]]>
+  </LandingPageSlogan>
+</contentitemdata.kickstart.landingpage>

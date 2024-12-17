@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitem>
+  <ContentItemContentFolderID>
+    <CodeName>Root</CodeName>
+    <GUID>9d6509a4-a231-4837-8f1c-81a90705f988</GUID>
+    <ObjectType>cms.contentfolder</ObjectType>
+  </ContentItemContentFolderID>
+  <ContentItemContentTypeID>
+    <CodeName>Kickstart.NavigationItem</CodeName>
+    <GUID>54a7d696-c498-464c-aea7-cdc0bd354f23</GUID>
+    <ObjectType>cms.contenttype</ObjectType>
+  </ContentItemContentTypeID>
+  <ContentItemGUID>9ac9a273-4338-46db-94d8-da7c47df13bb</ContentItemGUID>
+  <ContentItemIsReusable>True</ContentItemIsReusable>
+  <ContentItemIsSecured>False</ContentItemIsSecured>
+  <ContentItemName>HomeLink-3dorirz7</ContentItemName>
+</cms.contentitem>

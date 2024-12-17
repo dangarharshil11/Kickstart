@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.kickstart.navigationitem>
+  <ContentItemDataCommonDataID>
+    <GUID>b582920f-4fde-4075-8b07-7b8b699cc250</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>HomeLink-3dorirz7</CodeName>
+      <GUID>9ac9a273-4338-46db-94d8-da7c47df13bb</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>96516028-2752-4d7a-baea-a3939bc9cd63</ContentItemDataGUID>
+  <NavigationItemTarget>
+    <![CDATA[[{"WebPageGuid":"e068f043-b35d-4520-8f62-477dfd0d4c2f"}]]]>
+  </NavigationItemTarget>
+  <NavigationItemTitle>Home</NavigationItemTitle>
+</contentitemdata.kickstart.navigationitem>

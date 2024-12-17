@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitemcommondata>
+  <ContentItemCommonDataContentItemID>
+    <CodeName>MainNavigation-uxn18bqe</CodeName>
+    <GUID>b22b0ea6-d878-4399-9838-a662f239131a</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </ContentItemCommonDataContentItemID>
+  <ContentItemCommonDataContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>91c49e20-0eac-4d2a-8f31-b8e9edcc39a6</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2024-12-17 08:32:26Z</ContentItemCommonDataFirstPublishedWhen>
+  <ContentItemCommonDataGUID>f3805f89-c1c1-4937-918d-25771fbf91c7</ContentItemCommonDataGUID>
+  <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
+  <ContentItemCommonDataLastPublishedWhen>2024-12-17 08:34:20Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
+  <ContentItemReferences>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>5efc4575-fd84-4d87-9ee9-210ede06e780</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>574da30b-e852-4d88-a7a2-6fb88be1c4d9</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>f3805f89-c1c1-4937-918d-25771fbf91c7</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>HomeLink-3dorirz7</CodeName>
+        <GUID>9ac9a273-4338-46db-94d8-da7c47df13bb</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>5efc4575-fd84-4d87-9ee9-210ede06e780</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>d3bc19cf-e081-4df2-b30a-74fac6554f65</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>f3805f89-c1c1-4937-918d-25771fbf91c7</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>ContactUsLink-zhqogaax</CodeName>
+        <GUID>6108b5d0-414b-4b58-9c12-3ce88a899543</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>5efc4575-fd84-4d87-9ee9-210ede06e780</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>8b335116-35ca-402b-8c3c-a89bc8398691</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>f3805f89-c1c1-4937-918d-25771fbf91c7</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>PageWithEditableAreasLinks-mbdngwje</CodeName>
+        <GUID>5288a835-c581-4c45-8de8-eef09bc1800d</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+  </ContentItemReferences>
+</cms.contentitemcommondata>

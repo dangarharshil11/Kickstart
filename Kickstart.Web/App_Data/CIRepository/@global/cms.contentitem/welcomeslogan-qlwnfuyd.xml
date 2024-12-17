@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitem>
+  <ContentItemContentFolderID>
+    <CodeName>Root</CodeName>
+    <GUID>9d6509a4-a231-4837-8f1c-81a90705f988</GUID>
+    <ObjectType>cms.contentfolder</ObjectType>
+  </ContentItemContentFolderID>
+  <ContentItemContentTypeID>
+    <CodeName>Kickstart.Slogan</CodeName>
+    <GUID>bd5d23ff-7e2e-4e68-8b54-87a571ce8de9</GUID>
+    <ObjectType>cms.contenttype</ObjectType>
+  </ContentItemContentTypeID>
+  <ContentItemGUID>54c24115-3928-4a9a-b2b0-1c57c73f41d9</ContentItemGUID>
+  <ContentItemIsReusable>True</ContentItemIsReusable>
+  <ContentItemIsSecured>False</ContentItemIsSecured>
+  <ContentItemName>WelcomeSlogan-qlwnfuyd</ContentItemName>
+</cms.contentitem>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contenttypechannel>
+  <Parent>
+    <CodeName>Kickstart.LandingPage</CodeName>
+    <GUID>a261b336-a8a0-45ad-8640-e7a2e87fea39</GUID>
+    <ObjectType>cms.contenttype</ObjectType>
+  </Parent>
+  <Bindings>
+    <Binding id="cms.channel_KickstartPages">
+      <ContentTypeChannelChannelID>
+        <CodeName>KickstartPages</CodeName>
+        <GUID>22ab1e83-47da-4da1-93a0-cf1671a71814</GUID>
+        <ObjectType>cms.channel</ObjectType>
+      </ContentTypeChannelChannelID>
+    </Binding>
+  </Bindings>
+</cms.contenttypechannel>

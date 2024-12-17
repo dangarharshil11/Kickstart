@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitemcommondata>
+  <ContentItemCommonDataContentItemID>
+    <CodeName>Home-y8cbhwy0</CodeName>
+    <GUID>866a132b-31c2-4f3e-aefe-8154e8b86590</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </ContentItemCommonDataContentItemID>
+  <ContentItemCommonDataContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>91c49e20-0eac-4d2a-8f31-b8e9edcc39a6</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2024-12-17 07:41:46Z</ContentItemCommonDataFirstPublishedWhen>
+  <ContentItemCommonDataGUID>a9437e76-27f4-4958-a60c-59f64f23f951</ContentItemCommonDataGUID>
+  <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
+  <ContentItemCommonDataLastPublishedWhen>2024-12-17 07:41:46Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataPageTemplateConfiguration>
+    <![CDATA[{"identifier":"Kickstart.LandingPagePageTemplate","properties":null,"fieldIdentifiers":null}]]>
+  </ContentItemCommonDataPageTemplateConfiguration>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
+  <ContentItemReferences>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>9fe0feaf-5e1f-4982-b930-3517da7a8b1f</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>54f1ee8c-3c4f-44c5-9be6-143db98d0513</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>a9437e76-27f4-4958-a60c-59f64f23f951</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>WelcomeSlogan-qlwnfuyd</CodeName>
+        <GUID>54c24115-3928-4a9a-b2b0-1c57c73f41d9</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+  </ContentItemReferences>
+</cms.contentitemcommondata>

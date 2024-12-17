@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitem>
+  <ContentItemChannelID>
+    <CodeName>KickstartPages</CodeName>
+    <GUID>22ab1e83-47da-4da1-93a0-cf1671a71814</GUID>
+    <ObjectType>cms.channel</ObjectType>
+  </ContentItemChannelID>
+  <ContentItemContentTypeID>
+    <CodeName>Kickstart.LandingPage</CodeName>
+    <GUID>a261b336-a8a0-45ad-8640-e7a2e87fea39</GUID>
+    <ObjectType>cms.contenttype</ObjectType>
+  </ContentItemContentTypeID>
+  <ContentItemGUID>9fe4d4b1-3ad3-4e81-a607-acdba05e15ca</ContentItemGUID>
+  <ContentItemIsReusable>False</ContentItemIsReusable>
+  <ContentItemIsSecured>False</ContentItemIsSecured>
+  <ContentItemName>PageWithEditableAreas-ij5xcm1d</ContentItemName>
+</cms.contentitem>

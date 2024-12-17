@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.webpageitem>
+  <WebPageItemContentItemID>
+    <CodeName>Home-y8cbhwy0</CodeName>
+    <GUID>866a132b-31c2-4f3e-aefe-8154e8b86590</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </WebPageItemContentItemID>
+  <WebPageItemGUID>e068f043-b35d-4520-8f62-477dfd0d4c2f</WebPageItemGUID>
+  <WebPageItemName>Home-y8cbhwy0</WebPageItemName>
+  <WebPageItemOrder>3</WebPageItemOrder>
+  <WebPageItemTreePath>/Home</WebPageItemTreePath>
+  <WebPageItemWebsiteChannelID>
+    <GUID>6c848b0d-09e3-42dd-8b6a-68ee75bd5efb</GUID>
+    <ObjectType>cms.websitechannel</ObjectType>
+    <Parent>
+      <CodeName>KickstartPages</CodeName>
+      <GUID>22ab1e83-47da-4da1-93a0-cf1671a71814</GUID>
+      <ObjectType>cms.channel</ObjectType>
+    </Parent>
+  </WebPageItemWebsiteChannelID>
+</cms.webpageitem>

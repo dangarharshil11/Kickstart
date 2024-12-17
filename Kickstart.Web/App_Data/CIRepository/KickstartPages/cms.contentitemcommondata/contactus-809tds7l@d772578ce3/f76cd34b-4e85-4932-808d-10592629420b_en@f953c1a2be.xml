@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitemcommondata>
+  <ContentItemCommonDataContentItemID>
+    <CodeName>ContactUs-809tds7l</CodeName>
+    <GUID>de68ec30-bf61-4a53-8f55-7c1360ea52bc</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </ContentItemCommonDataContentItemID>
+  <ContentItemCommonDataContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>91c49e20-0eac-4d2a-8f31-b8e9edcc39a6</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2024-12-17 08:25:58Z</ContentItemCommonDataFirstPublishedWhen>
+  <ContentItemCommonDataGUID>f76cd34b-4e85-4932-808d-10592629420b</ContentItemCommonDataGUID>
+  <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
+  <ContentItemCommonDataLastPublishedWhen>2024-12-17 08:33:03Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataPageBuilderWidgets>
+    <![CDATA[{"editableAreas":[{"identifier":"areaMain","sections":[{"identifier":"016a1cd1-5205-4398-aa04-dbd03f64d594","type":"Kentico.DefaultSection","properties":null,"zones":[{"identifier":"a42392ba-2065-4695-9f51-9334af39e1c0","widgets":[{"identifier":"16c62b3b-a6c8-498d-b9a6-2963fec6d1ca","type":"Kentico.FormWidget","variants":[{"identifier":"0d1fc117-9223-4bf7-99fb-488fe065ad7d","properties":{"selectedForm":[{"objectGuid":null,"objectCodeName":"ContactUs"}],"afterSubmitMode":"message","afterSubmitDisplayText":"Thanks! We’ll get back to you soon!","afterSubmitRedirectToUrl":null,"afterSubmitRedirectToWebPage":[]},"fieldIdentifiers":{"selectedForm":"1762b75c-de43-46e8-98d0-3129d61ea99f","afterSubmitMode":"f2316562-4c3d-45b5-a68b-a4e50484fd87","afterSubmitDisplayText":"d113e4bb-f918-462f-b3b7-7328923af949","afterSubmitRedirectToUrl":"b3f466e3-f15f-4a40-bcba-9e9fdedeb2b8","afterSubmitRedirectToWebPage":"7203cfd3-f88e-4bb9-9404-7edb9e0d32f3"}}]}]}],"fieldIdentifiers":{}}]}]}]]>
+  </ContentItemCommonDataPageBuilderWidgets>
+  <ContentItemCommonDataPageTemplateConfiguration>
+    <![CDATA[{"identifier":"Kickstart.LandingPagePageTemplate","properties":null,"fieldIdentifiers":{}}]]>
+  </ContentItemCommonDataPageTemplateConfiguration>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
+  <ContentItemReferences>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>9fe0feaf-5e1f-4982-b930-3517da7a8b1f</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>ad8e845d-49d0-43ce-badc-bd0d11f01844</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>f76cd34b-4e85-4932-808d-10592629420b</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>WelcomeSlogan-qlwnfuyd</CodeName>
+        <GUID>54c24115-3928-4a9a-b2b0-1c57c73f41d9</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+  </ContentItemReferences>
+</cms.contentitemcommondata>

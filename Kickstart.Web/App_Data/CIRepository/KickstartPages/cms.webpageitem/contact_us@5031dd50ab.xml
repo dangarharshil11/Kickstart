@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.webpageitem>
+  <WebPageItemContentItemID>
+    <CodeName>ContactUs-809tds7l</CodeName>
+    <GUID>de68ec30-bf61-4a53-8f55-7c1360ea52bc</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </WebPageItemContentItemID>
+  <WebPageItemGUID>a9d69474-1077-40af-a7ba-6ce01ed7726c</WebPageItemGUID>
+  <WebPageItemName>ContactUs-809tds7l</WebPageItemName>
+  <WebPageItemOrder>2</WebPageItemOrder>
+  <WebPageItemTreePath>/Contact_us</WebPageItemTreePath>
+  <WebPageItemWebsiteChannelID>
+    <GUID>6c848b0d-09e3-42dd-8b6a-68ee75bd5efb</GUID>
+    <ObjectType>cms.websitechannel</ObjectType>
+    <Parent>
+      <CodeName>KickstartPages</CodeName>
+      <GUID>22ab1e83-47da-4da1-93a0-cf1671a71814</GUID>
+      <ObjectType>cms.channel</ObjectType>
+    </Parent>
+  </WebPageItemWebsiteChannelID>
+</cms.webpageitem>

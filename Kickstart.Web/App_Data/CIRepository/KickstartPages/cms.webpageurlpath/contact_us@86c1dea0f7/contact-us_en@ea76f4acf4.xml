@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.webpageurlpath>
+  <WebPageUrlPath>Contact-us</WebPageUrlPath>
+  <WebPageUrlPathContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>91c49e20-0eac-4d2a-8f31-b8e9edcc39a6</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </WebPageUrlPathContentLanguageID>
+  <WebPageUrlPathGUID>6fac1879-3a01-4a38-8b91-bf6b58e92971</WebPageUrlPathGUID>
+  <WebPageUrlPathHash>
+    <![CDATA[C8D8FB78B9F00DDEF2FFA34BC965A017EEF7CF636990F7CE2E352A9DB4F73FD8]]>
+  </WebPageUrlPathHash>
+  <WebPageUrlPathIsDraft>False</WebPageUrlPathIsDraft>
+  <WebPageUrlPathIsLatest>True</WebPageUrlPathIsLatest>
+  <WebPageUrlPathWebPageItemID>
+    <CodeName>ContactUs-809tds7l</CodeName>
+    <GUID>a9d69474-1077-40af-a7ba-6ce01ed7726c</GUID>
+    <ObjectType>cms.webpageitem</ObjectType>
+  </WebPageUrlPathWebPageItemID>
+  <WebPageUrlPathWebsiteChannelID>
+    <GUID>6c848b0d-09e3-42dd-8b6a-68ee75bd5efb</GUID>
+    <ObjectType>cms.websitechannel</ObjectType>
+    <Parent>
+      <CodeName>KickstartPages</CodeName>
+      <GUID>22ab1e83-47da-4da1-93a0-cf1671a71814</GUID>
+      <ObjectType>cms.channel</ObjectType>
+    </Parent>
+  </WebPageUrlPathWebsiteChannelID>
+</cms.webpageurlpath>

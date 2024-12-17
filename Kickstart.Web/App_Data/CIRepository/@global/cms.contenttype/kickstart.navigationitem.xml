@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contenttype>
+  <ClassContentTypeType>Reusable</ClassContentTypeType>
+  <ClassDisplayName>Navigation item</ClassDisplayName>
+  <ClassFormDefinition>
+    <form>
+      <field column="ContentItemDataID" columntype="integer" enabled="true" guid="c3705086-6543-42d1-a90a-249bb57ed264" isPK="true" />
+      <field column="ContentItemDataCommonDataID" columntype="integer" enabled="true" guid="797670a3-522f-491a-975c-2d796d3175f5" refobjtype="cms.contentitemcommondata" reftype="Required" system="true" />
+      <field column="ContentItemDataGUID" columntype="guid" enabled="true" guid="5bf39bbf-9ad7-4e49-b937-74e3f538ceb0" isunique="true" system="true" />
+      <field column="NavigationItemTitle" columnprecision="0" columnsize="200" columntype="text" enabled="true" guid="0742ad47-9c63-4956-8a5d-de151b5031f7" visible="true">
+        <properties>
+          <explanationtextashtml>False</explanationtextashtml>
+          <fieldcaption>Title</fieldcaption>
+          <fielddescriptionashtml>False</fielddescriptionashtml>
+        </properties>
+        <settings>
+          <controlname>Kentico.Administration.TextInput</controlname>
+        </settings>
+      </field>
+      <field column="NavigationItemTarget" columnprecision="0" columntype="webpages" enabled="true" guid="8db1fa91-87b9-4c60-beaa-4ed5edced3c7" visible="true">
+        <properties>
+          <explanationtextashtml>False</explanationtextashtml>
+          <fieldcaption>Target</fieldcaption>
+          <fielddescriptionashtml>False</fielddescriptionashtml>
+        </properties>
+        <settings>
+          <controlname>Kentico.Administration.WebPageSelector</controlname>
+          <MaximumPages>1</MaximumPages>
+          <Sortable>False</Sortable>
+        </settings>
+      </field>
+    </form>
+  </ClassFormDefinition>
+  <ClassGUID>54a7d696-c498-464c-aea7-cdc0bd354f23</ClassGUID>
+  <ClassHasUnmanagedDbSchema>False</ClassHasUnmanagedDbSchema>
+  <ClassIconClass>xp-chain</ClassIconClass>
+  <ClassName>Kickstart.NavigationItem</ClassName>
+  <ClassShortName>KickstartNavigationItem</ClassShortName>
+  <ClassTableName>Kickstart_NavigationItem</ClassTableName>
+  <ClassType>Content</ClassType>
+  <ClassWebPageHasUrl>False</ClassWebPageHasUrl>
+</cms.contenttype>

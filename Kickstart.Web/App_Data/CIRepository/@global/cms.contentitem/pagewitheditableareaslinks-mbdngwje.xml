@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitem>
+  <ContentItemContentFolderID>
+    <CodeName>Root</CodeName>
+    <GUID>9d6509a4-a231-4837-8f1c-81a90705f988</GUID>
+    <ObjectType>cms.contentfolder</ObjectType>
+  </ContentItemContentFolderID>
+  <ContentItemContentTypeID>
+    <CodeName>Kickstart.NavigationItem</CodeName>
+    <GUID>54a7d696-c498-464c-aea7-cdc0bd354f23</GUID>
+    <ObjectType>cms.contenttype</ObjectType>
+  </ContentItemContentTypeID>
+  <ContentItemGUID>5288a835-c581-4c45-8de8-eef09bc1800d</ContentItemGUID>
+  <ContentItemIsReusable>True</ContentItemIsReusable>
+  <ContentItemIsSecured>False</ContentItemIsSecured>
+  <ContentItemName>PageWithEditableAreasLinks-mbdngwje</ContentItemName>
+</cms.contentitem>

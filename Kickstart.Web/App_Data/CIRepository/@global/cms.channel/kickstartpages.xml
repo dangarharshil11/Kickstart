@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.channel>
+  <ChannelDisplayName>Kickstart pages</ChannelDisplayName>
+  <ChannelGUID>22ab1e83-47da-4da1-93a0-cf1671a71814</ChannelGUID>
+  <ChannelName>KickstartPages</ChannelName>
+  <ChannelSize>Standard</ChannelSize>
+  <ChannelType>Website</ChannelType>
+</cms.channel>

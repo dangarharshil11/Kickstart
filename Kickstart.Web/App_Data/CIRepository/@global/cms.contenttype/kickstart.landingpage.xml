@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contenttype>
+  <ClassContentTypeType>Website</ClassContentTypeType>
+  <ClassDisplayName>Landing page</ClassDisplayName>
+  <ClassFormDefinition>
+    <form>
+      <field column="ContentItemDataID" columntype="integer" enabled="true" guid="cebf254d-0df9-420f-b03d-58cb7eed454a" isPK="true" />
+      <field column="ContentItemDataCommonDataID" columntype="integer" enabled="true" guid="b3b6d885-4500-4a2b-8a36-13acc93cef2c" refobjtype="cms.contentitemcommondata" reftype="Required" system="true" />
+      <field column="ContentItemDataGUID" columntype="guid" enabled="true" guid="caf70d4d-ccc4-4fab-9f54-2227ce933217" isunique="true" system="true" />
+      <field allowempty="true" column="LandingPageSlogan" columnprecision="0" columntype="contentitemreference" enabled="true" guid="9fe0feaf-5e1f-4982-b930-3517da7a8b1f" visible="true">
+        <properties>
+          <explanationtextashtml>False</explanationtextashtml>
+          <fieldcaption>Slogan</fieldcaption>
+          <fielddescriptionashtml>False</fielddescriptionashtml>
+        </properties>
+        <settings>
+          <AllowedContentItemTypeIdentifiers>
+            <![CDATA[["bd5d23ff-7e2e-4e68-8b54-87a571ce8de9"]]]>
+          </AllowedContentItemTypeIdentifiers>
+          <controlname>Kentico.Administration.ContentItemSelector</controlname>
+          <SelectionType>contentTypes</SelectionType>
+        </settings>
+      </field>
+    </form>
+  </ClassFormDefinition>
+  <ClassGUID>a261b336-a8a0-45ad-8640-e7a2e87fea39</ClassGUID>
+  <ClassHasUnmanagedDbSchema>False</ClassHasUnmanagedDbSchema>
+  <ClassIconClass>xp-market</ClassIconClass>
+  <ClassName>Kickstart.LandingPage</ClassName>
+  <ClassTableName>Kickstart_LandingPage</ClassTableName>
+  <ClassType>Content</ClassType>
+  <ClassWebPageHasUrl>True</ClassWebPageHasUrl>
+</cms.contenttype>

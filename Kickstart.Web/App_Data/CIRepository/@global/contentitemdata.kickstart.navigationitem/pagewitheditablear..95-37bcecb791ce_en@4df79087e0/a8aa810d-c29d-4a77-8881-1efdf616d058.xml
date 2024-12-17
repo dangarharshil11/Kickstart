@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.kickstart.navigationitem>
+  <ContentItemDataCommonDataID>
+    <GUID>5bb2a63b-6efe-4cb8-8195-37bcecb791ce</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>PageWithEditableAreasLinks-mbdngwje</CodeName>
+      <GUID>5288a835-c581-4c45-8de8-eef09bc1800d</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>a8aa810d-c29d-4a77-8881-1efdf616d058</ContentItemDataGUID>
+  <NavigationItemTarget>
+    <![CDATA[[{"WebPageGuid":"7b685ba7-06fe-4678-ae82-fd7462675a87"}]]]>
+  </NavigationItemTarget>
+  <NavigationItemTitle>Page with Editable Areas</NavigationItemTitle>
+</contentitemdata.kickstart.navigationitem>
