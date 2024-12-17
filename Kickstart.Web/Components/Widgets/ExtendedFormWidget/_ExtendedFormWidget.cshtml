@@ -1,0 +1,9 @@
+﻿@using Kentico.Content.Web.Mvc
+@using Kickstart.Web.Components.Widgets.ExtendedFormWidget
+
+@model ComponentViewModel<ExtendedFormWidgetProperties>
+@* Configurable heading added above the default form widget *@
+<h1 style="text-align: center">@Model.Properties.HeadingText</h1>
+
+@* Renders the nested form widget *@
+@await Html.Kentico().RenderNestedWidgetAsync(SystemComponentIdentifiers.FORM_WIDGET_IDENTIFIER, Model.Properties)

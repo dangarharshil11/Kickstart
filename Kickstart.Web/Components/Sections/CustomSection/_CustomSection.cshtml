@@ -1,0 +1,17 @@
+﻿@using Kentico.PageBuilder.Web.Mvc
+@using Kickstart.Web.Components.Sections.CustomSection
+@addTagHelper Kentico.Content.Web.Mvc.WidgetZoneTagHelper, Kentico.Content.Web.Mvc
+
+@model ComponentViewModel<CustomSectionProperties>
+
+@* Shows a sample section with a background color specified in the section's configuration dialog *@
+<div style="background-color: @Model.Properties.Color;">
+    @* Renders a widget zone via the widget-zone Tag Helper *@
+    <widget-zone />
+    <div class="row">
+        @for(int i=Model.Properties.Number; i > 0; i--)
+        {
+            <div class="col border">@i</div>
+        }
+    </div>
+</div>
