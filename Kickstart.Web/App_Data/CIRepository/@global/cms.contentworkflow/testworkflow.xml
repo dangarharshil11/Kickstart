@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentworkflow>
+  <ContentWorkflowDisplayName>Test Workflow</ContentWorkflowDisplayName>
+  <ContentWorkflowGUID>2f1eff00-1e57-4cc0-8817-745346b6a1a7</ContentWorkflowGUID>
+  <ContentWorkflowName>TestWorkflow</ContentWorkflowName>
+</cms.contentworkflow>

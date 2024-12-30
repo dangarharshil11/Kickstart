@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitem>
+  <ContentItemChannelID>
+    <CodeName>KickstartPages</CodeName>
+    <GUID>22ab1e83-47da-4da1-93a0-cf1671a71814</GUID>
+    <ObjectType>cms.channel</ObjectType>
+  </ContentItemChannelID>
+  <ContentItemContentTypeID>
+    <CodeName>Kickstart.ArticlePage</CodeName>
+    <GUID>dcc8e38d-c0ea-4bd0-9d42-9917cc395a49</GUID>
+    <ObjectType>cms.contenttype</ObjectType>
+  </ContentItemContentTypeID>
+  <ContentItemGUID>75d6d29c-bbfc-4c8a-b55f-e7fa29cc9954</ContentItemGUID>
+  <ContentItemIsReusable>False</ContentItemIsReusable>
+  <ContentItemIsSecured>False</ContentItemIsSecured>
+  <ContentItemName>Article-ycr90mjw</ContentItemName>
+</cms.contentitem>

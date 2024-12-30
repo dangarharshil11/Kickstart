@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.applicationpermission>
+  <ApplicationName>Kentico.Xperience.Application.ContentHub</ApplicationName>
+  <ApplicationPermissionGuid>95955ae2-a1a3-4b44-b3ea-e2c745268b8c</ApplicationPermissionGuid>
+  <PermissionName>Update</PermissionName>
+  <RoleID>
+    <CodeName>Reviewer</CodeName>
+    <GUID>0a02fef5-0d4a-4a16-9678-07943c5bcc3d</GUID>
+    <ObjectType>cms.role</ObjectType>
+  </RoleID>
+</cms.applicationpermission>

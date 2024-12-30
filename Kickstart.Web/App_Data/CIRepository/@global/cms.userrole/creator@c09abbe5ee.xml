@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.userrole>
+  <Parent>
+    <CodeName>Creator</CodeName>
+    <GUID>58e65934-5cfb-46bb-aee8-352e27e1d496</GUID>
+    <ObjectType>cms.role</ObjectType>
+  </Parent>
+  <Bindings>
+    <Binding id="cms.user_creator">
+      <UserID>
+        <CodeName>creator</CodeName>
+        <GUID>23c09ffc-2a0a-457c-a954-96488eb705f9</GUID>
+        <ObjectType>cms.user</ObjectType>
+      </UserID>
+    </Binding>
+  </Bindings>
+</cms.userrole>

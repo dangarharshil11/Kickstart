@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentworkflowstep>
+  <ContentWorkflowStepDisplayName>Draft</ContentWorkflowStepDisplayName>
+  <ContentWorkflowStepGUID>fc4f871f-0ed5-46e8-838d-9fad09b6755e</ContentWorkflowStepGUID>
+  <ContentWorkflowStepIconClass />
+  <ContentWorkflowStepName>Draft-688jy8qy</ContentWorkflowStepName>
+  <ContentWorkflowStepOrder>0</ContentWorkflowStepOrder>
+  <ContentWorkflowStepType>1</ContentWorkflowStepType>
+  <ContentWorkflowStepWorkflowID>
+    <CodeName>TestWorkflow</CodeName>
+    <GUID>2f1eff00-1e57-4cc0-8817-745346b6a1a7</GUID>
+    <ObjectType>cms.contentworkflow</ObjectType>
+  </ContentWorkflowStepWorkflowID>
+</cms.contentworkflowstep>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentworkflowstep>
+  <ContentWorkflowStepDisplayName>Create Article</ContentWorkflowStepDisplayName>
+  <ContentWorkflowStepGUID>767e40a6-5b3f-4ecd-b406-096b8eed3f5a</ContentWorkflowStepGUID>
+  <ContentWorkflowStepIconClass>xp-bubble-pencil</ContentWorkflowStepIconClass>
+  <ContentWorkflowStepName>CreateArticle</ContentWorkflowStepName>
+  <ContentWorkflowStepOrder>1</ContentWorkflowStepOrder>
+  <ContentWorkflowStepType>3</ContentWorkflowStepType>
+  <ContentWorkflowStepWorkflowID>
+    <CodeName>TestWorkflow</CodeName>
+    <GUID>2f1eff00-1e57-4cc0-8817-745346b6a1a7</GUID>
+    <ObjectType>cms.contentworkflow</ObjectType>
+  </ContentWorkflowStepWorkflowID>
+</cms.contentworkflowstep>

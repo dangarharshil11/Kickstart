@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentworkflowstep>
+  <ContentWorkflowStepDisplayName>Final</ContentWorkflowStepDisplayName>
+  <ContentWorkflowStepGUID>836dd22e-0d70-4951-ac3e-743e640ba5dd</ContentWorkflowStepGUID>
+  <ContentWorkflowStepIconClass />
+  <ContentWorkflowStepName>Final-5krga2e1</ContentWorkflowStepName>
+  <ContentWorkflowStepOrder>100</ContentWorkflowStepOrder>
+  <ContentWorkflowStepType>4</ContentWorkflowStepType>
+  <ContentWorkflowStepWorkflowID>
+    <CodeName>TestWorkflow</CodeName>
+    <GUID>2f1eff00-1e57-4cc0-8817-745346b6a1a7</GUID>
+    <ObjectType>cms.contentworkflow</ObjectType>
+  </ContentWorkflowStepWorkflowID>
+</cms.contentworkflowstep>

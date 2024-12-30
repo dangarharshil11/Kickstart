@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.kickstart.article>
+  <ArticleText>
+    <![CDATA[Hello Welcome to the article. please verify the content. Verified please publish it. Ready to publish]]>
+  </ArticleText>
+  <ContentItemDataCommonDataID>
+    <GUID>71b33cba-677d-4d4c-ba94-0bfb7d656996</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>1stArticle-dhx5ps9b</CodeName>
+      <GUID>b08d7e7f-ad96-4c46-bb50-914cbb88de83</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>cd40f724-1c8d-4eff-9eb6-556c19155735</ContentItemDataGUID>
+</contentitemdata.kickstart.article>

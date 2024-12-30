@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.userrole>
+  <Parent>
+    <CodeName>Reviewer</CodeName>
+    <GUID>0a02fef5-0d4a-4a16-9678-07943c5bcc3d</GUID>
+    <ObjectType>cms.role</ObjectType>
+  </Parent>
+  <Bindings>
+    <Binding id="cms.user_reviewer">
+      <UserID>
+        <CodeName>reviewer</CodeName>
+        <GUID>e543ee35-a156-457a-afc8-429b1db93a92</GUID>
+        <ObjectType>cms.user</ObjectType>
+      </UserID>
+    </Binding>
+  </Bindings>
+</cms.userrole>

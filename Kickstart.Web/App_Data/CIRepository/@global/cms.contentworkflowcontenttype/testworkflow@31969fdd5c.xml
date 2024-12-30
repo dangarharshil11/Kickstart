@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentworkflowcontenttype>
+  <Parent>
+    <CodeName>TestWorkflow</CodeName>
+    <GUID>2f1eff00-1e57-4cc0-8817-745346b6a1a7</GUID>
+    <ObjectType>cms.contentworkflow</ObjectType>
+  </Parent>
+  <Bindings>
+    <Binding id="cms.contenttype_Kickstart.Article">
+      <ContentWorkflowContentTypeContentTypeID>
+        <CodeName>Kickstart.Article</CodeName>
+        <GUID>3acdfd28-01b1-421f-9982-58ffe59d3a7e</GUID>
+        <ObjectType>cms.contenttype</ObjectType>
+      </ContentWorkflowContentTypeContentTypeID>
+    </Binding>
+  </Bindings>
+</cms.contentworkflowcontenttype>

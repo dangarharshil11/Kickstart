@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contenttype>
+  <ClassContentTypeType>Reusable</ClassContentTypeType>
+  <ClassDisplayName>Article</ClassDisplayName>
+  <ClassFormDefinition>
+    <form>
+      <field column="ContentItemDataID" columntype="integer" enabled="true" guid="8c6869b1-b65a-4e5e-a8f6-597b34e8d3c5" isPK="true" />
+      <field column="ContentItemDataCommonDataID" columntype="integer" enabled="true" guid="ee512db2-10d4-4c8c-b582-0656d46142a5" refobjtype="cms.contentitemcommondata" reftype="Required" system="true" />
+      <field column="ContentItemDataGUID" columntype="guid" enabled="true" guid="355023c8-53e5-438f-8070-dd64844e7d76" isunique="true" system="true" />
+      <field column="ArticleText" columnprecision="0" columnsize="200" columntype="text" enabled="true" guid="662a71a4-da4f-4fa7-946d-1db889746cb4" visible="true">
+        <properties>
+          <explanationtextashtml>False</explanationtextashtml>
+          <fieldcaption>Article</fieldcaption>
+          <fielddescriptionashtml>False</fielddescriptionashtml>
+        </properties>
+        <settings>
+          <controlname>Kentico.Administration.TextInput</controlname>
+        </settings>
+      </field>
+    </form>
+  </ClassFormDefinition>
+  <ClassGUID>3acdfd28-01b1-421f-9982-58ffe59d3a7e</ClassGUID>
+  <ClassHasUnmanagedDbSchema>False</ClassHasUnmanagedDbSchema>
+  <ClassIconClass>xp-a-lowercase</ClassIconClass>
+  <ClassName>Kickstart.Article</ClassName>
+  <ClassShortName>KickstartArticle</ClassShortName>
+  <ClassTableName>Kickstart_Article</ClassTableName>
+  <ClassType>Content</ClassType>
+  <ClassWebPageHasUrl>False</ClassWebPageHasUrl>
+</cms.contenttype>

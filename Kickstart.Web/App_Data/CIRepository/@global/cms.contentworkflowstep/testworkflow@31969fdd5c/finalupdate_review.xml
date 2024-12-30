@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentworkflowstep>
+  <ContentWorkflowStepDisplayName>
+    <![CDATA[Final Update & Review]]>
+  </ContentWorkflowStepDisplayName>
+  <ContentWorkflowStepGUID>0be8113e-0443-4994-ad07-f7cf079dea23</ContentWorkflowStepGUID>
+  <ContentWorkflowStepIconClass>xp-arrow-send</ContentWorkflowStepIconClass>
+  <ContentWorkflowStepName>FinalUpdate_Review</ContentWorkflowStepName>
+  <ContentWorkflowStepOrder>3</ContentWorkflowStepOrder>
+  <ContentWorkflowStepType>3</ContentWorkflowStepType>
+  <ContentWorkflowStepWorkflowID>
+    <CodeName>TestWorkflow</CodeName>
+    <GUID>2f1eff00-1e57-4cc0-8817-745346b6a1a7</GUID>
+    <ObjectType>cms.contentworkflow</ObjectType>
+  </ContentWorkflowStepWorkflowID>
+</cms.contentworkflowstep>

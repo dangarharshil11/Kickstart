@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentworkflowsteprole>
+  <Parent>
+    <CodeName>ReviewArticle</CodeName>
+    <GUID>46a1aeae-70fd-4853-8fd4-37596fc7f069</GUID>
+    <ObjectType>cms.contentworkflowstep</ObjectType>
+    <Parent>
+      <CodeName>TestWorkflow</CodeName>
+      <GUID>2f1eff00-1e57-4cc0-8817-745346b6a1a7</GUID>
+      <ObjectType>cms.contentworkflow</ObjectType>
+    </Parent>
+  </Parent>
+  <Bindings>
+    <Binding id="cms.role_Administrator">
+      <ContentWorkflowStepRoleRoleID>
+        <CodeName>Administrator</CodeName>
+        <GUID>2c98af39-5f89-4639-8451-0b80eb100df8</GUID>
+        <ObjectType>cms.role</ObjectType>
+      </ContentWorkflowStepRoleRoleID>
+    </Binding>
+    <Binding id="cms.role_Reviewer">
+      <ContentWorkflowStepRoleRoleID>
+        <CodeName>Reviewer</CodeName>
+        <GUID>0a02fef5-0d4a-4a16-9678-07943c5bcc3d</GUID>
+        <ObjectType>cms.role</ObjectType>
+      </ContentWorkflowStepRoleRoleID>
+    </Binding>
+  </Bindings>
+</cms.contentworkflowsteprole>
