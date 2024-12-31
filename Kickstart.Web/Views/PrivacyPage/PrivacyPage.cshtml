@@ -1,15 +1,22 @@
 ﻿@using Kickstart.Web.Components.DataProtection
 @model ConsentListingModel
 
-@foreach(var consent in Model.Consents)
+@if(Model.Consents.Count() > 0)
 {
-    var routeData = new Dictionary<string, string> { { "consentId", consent.Id.ToString() } };
-    @Html.ActionLink(consent.DisplayName, "ConsentDetails", "PrivacyPage", new { consent.Id });
-    <form asp-action="Revoke"
-          asp-controller="PrivacyPage"
-          asp-antiforgery="true"
-          asp-all-route-data="routeData"
-          method="post">
-        <input type="submit" value="I agree">
-    </form>
+    @foreach(var consent in Model.Consents)
+    {
+        var routeData = new Dictionary<string, string> { { "consentId", consent.Id.ToString() } };
+        @Html.ActionLink(consent.DisplayName, "ConsentDetails", "PrivacyPage", new { consent.Id });
+        <form asp-action="Revoke"
+              asp-controller="PrivacyPage"
+              asp-antiforgery="true"
+              asp-all-route-data="routeData"
+              method="post">
+            <input type="submit" value="Revoke my consent">
+        </form>
+    }
+}
+else
+{
+    <p>User has not given any consent</p>
 }

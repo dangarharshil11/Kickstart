@@ -1,5 +1,8 @@
 ﻿using CMS;
 using Kentico.PageBuilder.Web.Mvc;
+using Kentico.Xperience.Admin.Base;
+using Kickstart.Web.Components.DataCollection;
+using Kickstart.Web.Components.DataEraser;
 using Kickstart.Web.Components.Sections.CustomSection;
 using Kickstart.Web.Components.Widgets.ExtendedFormWidget;
 using Kickstart.Web.Components.Widgets.NumberWidget;
@@ -26,3 +29,9 @@ using Kickstart.Web.Components.Widgets.NumberWidget;
 
 // Registers the custom module into the system
 [assembly: RegisterModule(typeof(CustomDataProtectionModule))]
+
+// Registers the CustomPersonalDataHelper class to replace the default PersonalDataHelper
+[assembly: RegisterCustomHelper(typeof(CustomPersonalDataHelper))]
+
+// Registers the Extender to extend CustomDataErasureDialogModel configuration dialog
+[assembly: PageExtender(typeof(RightToBeForgottenExtender))]
