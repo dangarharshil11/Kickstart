@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.consent>
+  <ConsentContent>
+    <ConsentContent xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+      <ConsentLanguageVersions>
+        <ConsentLanguageVersion>
+          <FullText>
+            <![CDATA[<p>CONSENT FOR USING, COLLECTING, ANALYSING YOUR DATA</p>]]>
+          </FullText>
+          <LanguageName>en</LanguageName>
+          <ShortText>
+            <![CDATA[<p>GIVE YOUR CONSENT</p>]]>
+          </ShortText>
+        </ConsentLanguageVersion>
+      </ConsentLanguageVersions>
+    </ConsentContent>
+  </ConsentContent>
+  <ConsentDisplayName>SampleTrackingConsent</ConsentDisplayName>
+  <ConsentGuid>6a09bf43-e5e4-4054-8a96-58c95e8481a2</ConsentGuid>
+  <ConsentHash>
+    <![CDATA[a78b618b32366cd474ce9add7faf6a8c3097a78698c8ff78fd6628471ef980b3]]>
+  </ConsentHash>
+  <ConsentName>SampleTrackingConsent</ConsentName>
+</cms.consent>

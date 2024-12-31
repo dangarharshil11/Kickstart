@@ -1,0 +1,24 @@
+﻿@using Kentico.Content.Web.Mvc;
+@using Kickstart.Web.Components.DataProtection
+
+@model TrackingConsentViewModel
+
+@* Displays content only if the current contact has not yet given a tracking consent agreement *@
+@if (!Model.IsAgreed)
+{
+    var routeData = new Dictionary<string, string> { { "returnUrl", Model.ReturnUrl } };
+
+    <div>
+        @* Displays the consent text*@
+        @Html.Raw(@Model.ShortText)
+    </div>
+    @* Displays an input for giving a consent agreement *@
+    @* Replace "TrackingConsent" with the name of your controller that handles consent agreement requests *@
+    <form asp-action="Agree"
+          asp-controller="TrackingConsent"
+          asp-antiforgery="true"
+          asp-all-route-data="routeData"
+          method="post">
+        <input type="submit" value="I agree">
+    </form>
+}
