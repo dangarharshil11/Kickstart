@@ -1,0 +1,23 @@
+﻿@model SelectList
+
+@using (Html.BeginForm("SetCookieLevel", "CookieLevel", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    @Html.DropDownListFor(x => x.SelectedValue, Model)
+    <input type="submit" value="Select" />
+}
+
+<h1>Custom Cookie</h1>
+<form asp-action="Set"
+      asp-controller="CookieLevel"
+      asp-antiforgery="true"
+      method="post">
+    <input type="submit" value="Set Cookie">
+</form>
+<br />
+<form asp-action="Remove"
+      asp-controller="CookieLevel"
+      asp-antiforgery="true"
+      method="post">
+    <input type="submit" value="Remove Cookie">
+</form>

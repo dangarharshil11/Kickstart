@@ -9,6 +9,10 @@ using Kickstart.Web.Features.Navigation;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.Configure<CookieLevelOptions>(options =>
+{
+    options.CookieConfigurations.Add("CustomCookie", CookieLevel.Essential);
+});
 
 // Enable desired Kentico Xperience features
 builder.Services.AddKentico(features =>
