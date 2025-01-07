@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.kickstart.blog>
+  <BlogAuthor>Demo User</BlogAuthor>
+  <BlogContent>
+    <![CDATA[<p>Here lies the important info for you</p>]]>
+  </BlogContent>
+  <BlogDescription>Blog Description</BlogDescription>
+  <BlogTitle>Latest Blog</BlogTitle>
+  <ContentItemDataCommonDataID>
+    <GUID>7a410cfe-8449-432c-ae1b-17cd048ebd76</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>4thBlog-ady2ic7c</CodeName>
+      <GUID>c1827d4d-bb14-4fb4-81f8-4633aed93cd1</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>37e1f5a1-faf5-4de0-9097-40390c410ff2</ContentItemDataGUID>
+</contentitemdata.kickstart.blog>

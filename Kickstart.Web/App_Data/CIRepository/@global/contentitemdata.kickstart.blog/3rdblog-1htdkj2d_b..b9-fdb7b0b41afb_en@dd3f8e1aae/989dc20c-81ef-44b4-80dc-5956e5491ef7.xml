@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.kickstart.blog>
+  <BlogAuthor>Harshil</BlogAuthor>
+  <BlogContent>
+    <![CDATA[<p>Welcome to the blog</p>]]>
+  </BlogContent>
+  <BlogDescription>demo description</BlogDescription>
+  <BlogTitle>Revision Blog</BlogTitle>
+  <ContentItemDataCommonDataID>
+    <GUID>b45c5e96-5076-4995-a9b9-fdb7b0b41afb</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>3rdBlog-1htdkj2d</CodeName>
+      <GUID>22123747-47cb-4158-83f1-365f8d18108e</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>989dc20c-81ef-44b4-80dc-5956e5491ef7</ContentItemDataGUID>
+</contentitemdata.kickstart.blog>

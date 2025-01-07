@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contenttype>
+  <ClassContentTypeType>Reusable</ClassContentTypeType>
+  <ClassDisplayName>Blog</ClassDisplayName>
+  <ClassFormDefinition>
+    <form>
+      <field column="ContentItemDataID" columntype="integer" enabled="true" guid="0fd70a09-d15f-4a37-a96e-7bd43ed5e3ed" isPK="true" />
+      <field column="ContentItemDataCommonDataID" columntype="integer" enabled="true" guid="608ed278-9c11-4e48-8364-9e2d8c55a4e2" refobjtype="cms.contentitemcommondata" reftype="Required" system="true" />
+      <field column="ContentItemDataGUID" columntype="guid" enabled="true" guid="09f3edfa-1beb-4a5a-9367-8602d47146bf" isunique="true" system="true" />
+      <field column="BlogTitle" columnprecision="0" columnsize="200" columntype="text" enabled="true" guid="1555458f-e28b-4a3b-b7f7-26a5e6ab2f02" visible="true">
+        <properties>
+          <explanationtextashtml>False</explanationtextashtml>
+          <fieldcaption>Title</fieldcaption>
+          <fielddescriptionashtml>False</fielddescriptionashtml>
+        </properties>
+        <settings>
+          <controlname>Kentico.Administration.TextInput</controlname>
+        </settings>
+      </field>
+      <field column="BlogContent" columnprecision="0" columntype="richtexthtml" enabled="true" guid="50656e5a-4355-4f72-baba-5fbfe2733ac9" visible="true">
+        <properties>
+          <explanationtextashtml>False</explanationtextashtml>
+          <fieldcaption>Content</fieldcaption>
+          <fielddescriptionashtml>False</fielddescriptionashtml>
+        </properties>
+        <settings>
+          <controlname>Kentico.Administration.RichTextEditor</controlname>
+        </settings>
+      </field>
+      <field column="BlogDescription" columnprecision="0" columntype="longtext" enabled="true" guid="8a2b9349-d2a7-4194-b555-f02fa8e4db92" visible="true">
+        <properties>
+          <explanationtextashtml>False</explanationtextashtml>
+          <fieldcaption>Description</fieldcaption>
+          <fielddescriptionashtml>False</fielddescriptionashtml>
+        </properties>
+        <settings>
+          <controlname>Kentico.Administration.TextInput</controlname>
+        </settings>
+      </field>
+      <field column="BlogAuthor" columnprecision="0" columnsize="200" columntype="text" enabled="true" guid="3ed459ba-5edd-4966-b2ca-bf0c036c0089" visible="true">
+        <properties>
+          <explanationtextashtml>False</explanationtextashtml>
+          <fieldcaption>Author</fieldcaption>
+          <fielddescriptionashtml>False</fielddescriptionashtml>
+        </properties>
+        <settings>
+          <controlname>Kentico.Administration.TextInput</controlname>
+        </settings>
+      </field>
+    </form>
+  </ClassFormDefinition>
+  <ClassGUID>bfa3a0bd-ab57-44ee-a9f7-6e49c66a008f</ClassGUID>
+  <ClassHasUnmanagedDbSchema>False</ClassHasUnmanagedDbSchema>
+  <ClassIconClass>xp-b</ClassIconClass>
+  <ClassName>Kickstart.Blog</ClassName>
+  <ClassShortName>KickstartBlog</ClassShortName>
+  <ClassTableName>Kickstart_Blog</ClassTableName>
+  <ClassType>Content</ClassType>
+  <ClassWebPageHasUrl>False</ClassWebPageHasUrl>
+</cms.contenttype>

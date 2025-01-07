@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.kickstart.blog>
+  <BlogAuthor>Jhon doe</BlogAuthor>
+  <BlogContent>
+    <![CDATA[<p>Hello, Good morning</p>]]>
+  </BlogContent>
+  <BlogDescription>Random Description</BlogDescription>
+  <BlogTitle>Test blog</BlogTitle>
+  <ContentItemDataCommonDataID>
+    <GUID>5caf0abe-05a9-450c-96c7-899f1f18f20b</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>2ndBlog-znc113wr</CodeName>
+      <GUID>3d39d023-078e-4d27-b140-3771b0d05c48</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>e899c4e4-d5ce-41cb-95f0-28c75fb0a2f5</ContentItemDataGUID>
+</contentitemdata.kickstart.blog>

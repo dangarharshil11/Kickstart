@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.kickstart.blog>
+  <BlogAuthor>Harshil</BlogAuthor>
+  <BlogContent>
+    <![CDATA[<p>Random content is added for the 1st blog</p>]]>
+  </BlogContent>
+  <BlogDescription>Test Description</BlogDescription>
+  <BlogTitle>This is demo blog </BlogTitle>
+  <ContentItemDataCommonDataID>
+    <GUID>a750ff59-2cb3-4660-bb08-6f5356af7d19</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>1stBlog-41w3qij4</CodeName>
+      <GUID>54e86300-0db2-4b1b-9d94-815eb2d3bd49</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>e449eec6-6afd-49c2-9424-bb96c9f9cf8b</ContentItemDataGUID>
+</contentitemdata.kickstart.blog>
