@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<om.contactgroup>
+  <ContactGroupDisplayName>test </ContactGroupDisplayName>
+  <ContactGroupDynamicCondition>{% false %}</ContactGroupDynamicCondition>
+  <ContactGroupEnabled>True</ContactGroupEnabled>
+  <ContactGroupGUID>3d9d652b-9cea-4600-b425-38790fd33427</ContactGroupGUID>
+  <ContactGroupIsRecipientList>False</ContactGroupIsRecipientList>
+  <ContactGroupName>Test</ContactGroupName>
+</om.contactgroup>
