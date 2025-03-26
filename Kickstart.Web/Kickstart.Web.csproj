@@ -7,6 +7,7 @@
     <PackageReference Include="kentico.xperience.azurestorage" Version="29.3.0" />
     <PackageReference Include="kentico.xperience.imageprocessing" Version="29.3.0" />
     <PackageReference Include="kentico.xperience.webapp" Version="29.3.0" />
+    <PackageReference Include="Microsoft.Identity.Web" Version="3.8.1" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Kickstart.Entities\Kickstart.Entities.csproj" />

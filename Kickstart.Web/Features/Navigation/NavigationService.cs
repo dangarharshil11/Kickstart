@@ -20,7 +20,7 @@ namespace Kickstart.Web.Features.Navigation
 
         public async Task<NavigationItemViewModel> GetNavigationItemViewModel(NavigationItem navigationItem)
         {
-            if (navigationItem?.NavigationItemTarget?.IsNullOrEmpty() ?? true)
+            if (navigationItem?.NavigationItemTarget?.Any() ?? true)
             {
                 return null;
             }
@@ -38,7 +38,7 @@ namespace Kickstart.Web.Features.Navigation
 
         public async Task<NavigationMenuViewModel> GetNavigationMenuViewModel(NavigationMenu navigationMenu)
         {
-            if (navigationMenu?.NavigationMenuItems?.IsNullOrEmpty() ?? true)
+            if (navigationMenu?.NavigationMenuItems?.Any() ?? true)
             {
                 return null;
             }
