@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.kickstart.image>
+  <ContentItemDataCommonDataID>
+    <GUID>393b9585-373d-417e-bf3b-0436977dbce0</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>Test-wrhnksul</CodeName>
+      <GUID>71abdfc5-ee97-43bf-afd2-4278e617c366</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>1b57e397-4e2d-4798-a283-39d335bcd29d</ContentItemDataGUID>
+  <File>
+    <![CDATA[{"Identifier":"c1bbd007-8349-45a2-bdab-ba3f82b8c0d9","Name":"NS_1 1 (1).png","Extension":".png","Size":2887,"LastModified":"2025-03-26T09:23:15.6310558Z"}]]>
+  </File>
+</contentitemdata.kickstart.image>

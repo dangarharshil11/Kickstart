@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contenttype>
+  <ClassContentTypeType>Reusable</ClassContentTypeType>
+  <ClassDisplayName>Image</ClassDisplayName>
+  <ClassFormDefinition>
+    <form>
+      <field column="ContentItemDataID" columntype="integer" enabled="true" guid="bbbb76dc-b0aa-4f47-b546-6f9885c1a59d" isPK="true" />
+      <field column="ContentItemDataCommonDataID" columntype="integer" enabled="true" guid="41ca43a7-249e-47d3-8b24-e3cf9c1e5e7d" refobjtype="cms.contentitemcommondata" reftype="Required" system="true" />
+      <field column="ContentItemDataGUID" columntype="guid" enabled="true" guid="9df173af-8604-4a8d-96b6-89efd8c1db78" isunique="true" system="true" />
+      <field allowempty="true" column="File" columnprecision="0" columntype="contentitemasset" enabled="true" guid="d0de3f4a-38ae-45dd-81a9-b2caf9ea9689" visible="true">
+        <properties>
+          <explanationtextashtml>False</explanationtextashtml>
+          <fieldcaption>File</fieldcaption>
+          <fielddescriptionashtml>False</fielddescriptionashtml>
+        </properties>
+        <settings>
+          <AllowedExtensions>_INHERITED_</AllowedExtensions>
+          <controlname>Kentico.Administration.ContentItemAssetUploader</controlname>
+        </settings>
+      </field>
+    </form>
+  </ClassFormDefinition>
+  <ClassGUID>4b107638-374d-44d9-bffe-fda61b56b04c</ClassGUID>
+  <ClassHasUnmanagedDbSchema>False</ClassHasUnmanagedDbSchema>
+  <ClassIconClass>xp-android</ClassIconClass>
+  <ClassName>Kickstart.Image</ClassName>
+  <ClassShortName>KickstartImage</ClassShortName>
+  <ClassTableName>Kickstart_Image</ClassTableName>
+  <ClassType>Content</ClassType>
+  <ClassWebPageHasUrl>False</ClassWebPageHasUrl>
+</cms.contenttype>
